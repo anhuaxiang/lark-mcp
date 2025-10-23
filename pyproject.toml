@@ -1,5 +1,5 @@
 [project]
-name = "larm-mcp"
+name = "lark-mcp"
 version = "0.1.0"
 description = "Lark MCP Server"
 authors = [
